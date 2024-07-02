@@ -128,6 +128,8 @@ To use this project, follow these steps:
 
 For deployment, we will be using AWS/GCP to scale the data processing tasks and handle large datasets. The comparison of practices section highlights the advantages of each tool for deployment.
 
+Can find more details here :arrow_right: [link](https://vivek-murali.github.io/Chicago-Crime-CaseStudy/)
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 This project was built using various data engineering tools and practices, including:
